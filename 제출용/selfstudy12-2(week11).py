@@ -37,4 +37,3 @@ sedan1.upSpeed(200)
 
 print("소나타--> ", end="")
 sonata1.upSpeed(200)
-    
